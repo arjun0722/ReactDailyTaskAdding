@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.d404cc8a.css",
-    "main.js": "/my-app/static/js/main.56c9a4bb.js",
-    "static/js/787.aec75a44.chunk.js": "/my-app/static/js/787.aec75a44.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.d404cc8a.css.map": "/my-app/static/css/main.d404cc8a.css.map",
-    "main.56c9a4bb.js.map": "/my-app/static/js/main.56c9a4bb.js.map",
-    "787.aec75a44.chunk.js.map": "/my-app/static/js/787.aec75a44.chunk.js.map"
+    "main.css": "/ReactDailyTaskAdding/static/css/main.d404cc8a.css",
+    "main.js": "/ReactDailyTaskAdding/static/js/main.a09bfd4e.js",
+    "static/js/787.aec75a44.chunk.js": "/ReactDailyTaskAdding/static/js/787.aec75a44.chunk.js",
+    "index.html": "/ReactDailyTaskAdding/index.html",
+    "main.d404cc8a.css.map": "/ReactDailyTaskAdding/static/css/main.d404cc8a.css.map",
+    "main.a09bfd4e.js.map": "/ReactDailyTaskAdding/static/js/main.a09bfd4e.js.map",
+    "787.aec75a44.chunk.js.map": "/ReactDailyTaskAdding/static/js/787.aec75a44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d404cc8a.css",
-    "static/js/main.56c9a4bb.js"
+    "static/js/main.a09bfd4e.js"
   ]
 }
